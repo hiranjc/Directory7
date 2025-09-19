@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\Directory7\bin\Debug\net8.0\Directory7.exe
+C:\Users\ET73\Downloads\projetos-c#\Directory7\bin\Debug\net8.0\Directory7.deps.json
+C:\Users\ET73\Downloads\projetos-c#\Directory7\bin\Debug\net8.0\Directory7.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\Directory7\bin\Debug\net8.0\Directory7.dll
+C:\Users\ET73\Downloads\projetos-c#\Directory7\bin\Debug\net8.0\Directory7.pdb
+C:\Users\ET73\Downloads\projetos-c#\Directory7\obj\Debug\net8.0\Directory7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\Directory7\obj\Debug\net8.0\Directory7.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Directory7\obj\Debug\net8.0\Directory7.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\Directory7\obj\Debug\net8.0\Directory7.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Directory7\obj\Debug\net8.0\Directory7.dll
+C:\Users\ET73\Downloads\projetos-c#\Directory7\obj\Debug\net8.0\refint\Directory7.dll
+C:\Users\ET73\Downloads\projetos-c#\Directory7\obj\Debug\net8.0\Directory7.pdb
+C:\Users\ET73\Downloads\projetos-c#\Directory7\obj\Debug\net8.0\Directory7.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\Directory7\obj\Debug\net8.0\ref\Directory7.dll
